@@ -10,15 +10,15 @@ Unfortunately, this has to be set every time you open up BetterDiscordPanel. A s
 
 2. Click on the icon of the dots in the top right corner.
 
-![Step 1](./images/step-1.png)
+![Step 1](./step-1.png)
 
 3. Click on `More tools`, then `Network conditions`.
 
-![Step 1](./images/step-2.png)
+![Step 1](./step-2.png)
 
 4. Scroll down to the User agent section and unclick the checkbox labelled `Use browser default`. Make sure the User Agent is set to `Custom`.
 
-![Step 3](./images/step-3.png)
+![Step 3](./step-3.png)
 
 5. Enter the following custom User agent. This User Agent must be specifically applied.
 
